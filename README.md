@@ -5,8 +5,10 @@ This document describes the construction of a merger and acquisition (M&A) deal 
 
 ## Source Data Extraction
 
-### Zephyr Search Strategy
-![image](https://user-images.githubusercontent.com/xxx/xxx.png)
+## Zephyr Search Strategy
+
+<img src="https://github.com/quinnieMA/MA_corpus/blob/main/data_screening.PNG?raw=true" alt="Zephyr Search Strategy" width="600">
+
 ## Data Processing Pipeline
 
 ### 1. Initial Export Challenge
