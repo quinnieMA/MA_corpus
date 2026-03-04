@@ -1,5 +1,4 @@
-# Zephyr Deal Database Construction - Target Trade Description
-
+# Zephyr Deal Database Construction - Corpus from various resources
 ## Database Overview
 This document describes the construction of a merger and acquisition (M&A) deal database extracted from Zephyr (Bureau van Dijk), focusing on deals with target trade descriptions for Natural Language Processing (NLP) analysis.
 
